@@ -65,7 +65,6 @@ body {
     background-position: center;
     position: relative;
     }
-  /* Hero Style End */
 
 /* Hero Form Style Start */
 .hero-form {
@@ -87,6 +86,13 @@ body {
     margin: 0;
     font-size: 24px;
 }
+.hero-form button {
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
 .form-input {
     border: 1px solid #024e76;
     display: block;
